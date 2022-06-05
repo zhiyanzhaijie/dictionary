@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  --theme-color: #292c35;
+  --theme-placeholder: #a9abae;
+  --theme-border: #c5bcbc;
+  --theme-outline: #c5bcbc;
+  --theme-input: #fff;
+  --theme-titlebackground: #373a42;
+}
+.light-mode {
+  --theme-color: #fff;
+  --theme-placeholder: #385c37;
+  --theme-border: #2d492c;
+  --theme-outline: #50824f;
+  --theme-input: #96c24e;
+  --theme-titlebackground: #253d24;
+}
