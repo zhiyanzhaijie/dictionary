@@ -8,5 +8,5 @@ export default defineConfig({
       reactivityTransform: true
     })
   ],
-  base:'/dictionary'
+  base: '/dictionary'
 })
